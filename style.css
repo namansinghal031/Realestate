@@ -438,7 +438,7 @@
       justify-content: space-between;
       padding: 0vw 5vw;
       font-family: a;
-      height: 33.3%;
+      height: 25%;
       width: 100%;
       color: #fff;
       border-top: .5px solid #ffffff5c;
@@ -455,6 +455,22 @@
       font-weight: 100;
       position: relative;
       z-index: 9999;
+  }
+
+.page14-inner>h5{
+      font-size: 3vw;
+      font-weight: 100;
+      position: relative;
+      z-index: 9999;
+      text-align: center;
+  }
+  
+  .page14-inner>h4{
+    font-size: 3vw;
+    text-align: center;
+    font-weight: 10;
+    position: relative;
+    z-index: 9999;
   }
   
   .center14{
